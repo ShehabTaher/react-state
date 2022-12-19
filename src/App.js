@@ -1,5 +1,4 @@
 import React from "react";
-import "./styles.css";
  import img from "./img/IMG_5662.JPG";
 
 class App extends React.Component {
