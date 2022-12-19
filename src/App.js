@@ -34,7 +34,7 @@ class App extends React.Component {
         <h2>{this.state.counter} sec</h2>
         <button
           onClick={this.handletoggle}
-          style={{ width: "100px", height: "50px", backgroundColor: "red" }}
+          style={{ width: "100px", height: "50px", backgroundColor: "balck" }}
         >
           Click me
         </button>
